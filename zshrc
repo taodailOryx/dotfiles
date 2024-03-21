@@ -124,3 +124,5 @@ function frg {
     fi  
 }
 
+alias cb='flatpak run app.getclipboard.Clipboard'
+
